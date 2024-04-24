@@ -34,7 +34,6 @@ def process():
         jsonify(
             {
                 'winner': winner,
-                'user_option': user_option,
                 'computer_option': computer_option
             }
         ),

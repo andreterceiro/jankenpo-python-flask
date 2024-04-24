@@ -26,7 +26,7 @@
 
                 const response = await request.json();
                 document.getElementById("winner").innerHTML = response.winner
-                document.getElementById("user_option").innerHTML = response.user_option
+                document.getElementById("user_option").innerHTML = user_option
                 document.getElementById("computer_option").innerHTML = response.computer_option
                 document.getElementById("result").style.display = "block"
 
