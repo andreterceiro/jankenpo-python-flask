@@ -28,9 +28,19 @@ python index.py
 
 You can interact with the game opening this URL in a browser:
 ```
-http://127.0.0.1:5000
+http://127.0.0.1:7000
 ```
 
 
 # Demo
 [Vídeo](https://youtu.be/JPPvAEw8l3s)
+
+
+# Requeirements
+
+Please see [requirements.txt](requirements.txt)
+
+
+# Application port
+
+I changed in november 21, 2024 the application port to **7000**.
